@@ -1,14 +1,4 @@
 # Recommendation Systems using MMoE
-## Class: CMPE 297 sec 49 Advance Deep Learning
-## University: San Jose State University 
-## Guidance: Professor Vijay Eranti
-
-| Team Members | Responsible Areas |
-| ------------ | ----- |
-| Gulnara Timokhina | Feature Engineering , Visualization, Dataset Preprocessing, Web Application Back-End Development, Web Application Model Prediction |
-|Mirsaeid Abolghasemi | MMOE Dataset research, Web Application testing, Data Cleansing, Data Enrichment, Bias Induction |
-|Poornapragna vadiraj | Web Application Front-End development, Model Deployment, NMF Movie recommender web page Design |
-| Varun Bhaseen | Candidate Generation model, MMOE Recommender Model, Train model, Hyperparameter Tuning, Model Evaluation |
 
 
 NOTE: ADD c++ libraries (check for same in Docker Container first)  
